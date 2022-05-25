@@ -1,0 +1,21 @@
+
+// MARK: EmployeeList
+
+"JUST.IN.NAVIGATION.TITLE" = "transpire";
+
+
+// MARK: Message
+
+"APP.ALERT.CONFIRM"    = "Ok";
+"APP.ALERT.TITLE"      = "ABC News";
+
+// MARK: API Error Message
+
+"API.ERROR.INVALID.ENDPOINT"        = "Invalid Endpoint";
+"API.ERROR.UNKNOWN"                 = "Unknown error occurred.";
+"API.ERROR.DECODING.ERROR"          = "Encountered decoding data";
+"API.ERROR.NO.JSON.DATA"            = "No JSON data available.";
+"API.ERROR.TIMEOUT"                 = "Network request timed out.";
+"API.ERROR.INVALID.RESPONSE"        = "Could not get propper response.";
+"API.ERROR.NO.INTERNET.CONNECTION"  = "No internet connection available.";
+"API.ERROR.UNHANDLED.NETWORK.ERROR" = "An unhandled network error occured: ";

@@ -1,0 +1,229 @@
+{
+    "status": "ok",
+    "feed": {
+        "url": "http://www.abc.net.au/news/feed/51120/rss.xml",
+        "title": "Just In",
+        "link": "https://www.abc.net.au/news/justin/",
+        "author": "",
+        "description": "",
+        "image": "https://www.abc.net.au/news/image/8413416-1x1-144x144.png"
+    },
+    "items": [
+        {
+            "title": "Google Maps to start directing drivers to 'eco-friendly' routes",
+            "pubDate": "2021-03-31 00:17:59",
+            "link": "https://www.abc.net.au/news/2021-03-31/google-maps-to-start-directing-drivers-to-eco-friendly-routes/100040444",
+            "guid": "https://www.abc.net.au/news/2021-03-31/google-maps-to-start-directing-drivers-to-eco-friendly-routes/100040444",
+            "author": "",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d3e635bafb2de6c9dabc5fce490aefba?impolicy=wcms_crop_resize&cropH=1281&cropW=961&xPos=480&yPos=0&width=862&height=1149",
+            "description": "The eco-friendly routes feature will be launched in the US later this year, with expansion to the rest of the world on the way.",
+            "content":  ,
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/d3e635bafb2de6c9dabc5fce490aefba?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d3e635bafb2de6c9dabc5fce490aefba?impolicy=wcms_crop_resize&amp;cropH=1281&amp;cropW=961&amp;xPos=480&amp;yPos=0&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "Science and Technology",
+                "Mobile Phones",
+                "Environmental Impact",
+                "Environmental Technology"
+            ]
+        },
+        {
+            "title": "Australia joins 13 other countries in voicing concerns over lack of access for WHO COVID experts in China",
+            "pubDate": "2021-03-30 23:18:05",
+            "link": "https://www.abc.net.au/news/2021-03-31/australia-joins-us-uk-over-who-covid-origin-report-concerns/100039980",
+            "guid": "https://www.abc.net.au/news/2021-03-31/australia-joins-us-uk-over-who-covid-origin-report-concerns/100039980",
+            "author": "",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13fb69c1c6281ce901a13993b6972b2e?impolicy=wcms_crop_resize&amp;cropH=2000&amp;cropW=1498&amp;xPos=751&amp;yPos=0&amp;width=862&amp;height=1149",
+            "description": "In a statement also signed by countries including the US, Canada, Japan and the UK, Australia expresses concerns that the WHO report into the origins of coronavirus was delayed and lacked access to complete data.",
+            "content": "In a statement also signed by countries including the US, Canada, Japan and the UK, Australia expresses concerns that the WHO report into the origins of coronavirus was delayed and lacked access to complete data.",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/13fb69c1c6281ce901a13993b6972b2e?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13fb69c1c6281ce901a13993b6972b2e?impolicy=wcms_crop_resize&amp;cropH=2000&amp;cropW=1498&amp;xPos=751&amp;yPos=0&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "COVID-19",
+                "Respiratory Diseases",
+                "World Politics"
+            ]
+        },
+        {
+            "title": "'Tears of joy' as trans priest becomes Uniting Church minister",
+            "pubDate": "2021-03-30 23:16:12",
+            "link": "https://www.abc.net.au/news/2021-03-31/reverend-jo-inkpin-making-history-in-uniting-church-role/13282256",
+            "guid": "https://www.abc.net.au/news/2021-03-31/reverend-jo-inkpin-making-history-in-uniting-church-role/13282256",
+            "author": "",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/baf0c48223bdff86799571d952dbec3b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=809&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149",
+            "description": "Australia's first openly transgender church minister is hoping her presence will inspire greater visibility for other transgender people in public roles.",
+            "content": "Australia's first openly transgender church minister is hoping her presence will inspire greater visibility for other transgender people in public roles.",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/baf0c48223bdff86799571d952dbec3b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1918&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/baf0c48223bdff86799571d952dbec3b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=809&amp;xPos=555&amp;yPos=0&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "LGBT",
+                "Community and Society",
+                "Sexuality",
+                "Religion and Beliefs"
+            ]
+        },
+        {
+            "title": "One sip of this herbicide could kill, but farmers don't want it banned",
+            "pubDate": "2021-03-30 23:12:59",
+            "link": "https://www.abc.net.au/news/rural/2021-03-31/one-sip-of-paraquat-could-kill-but-farmers-stand-by-it/100039266",
+            "guid": "https://www.abc.net.au/news/rural/2021-03-31/one-sip-of-paraquat-could-kill-but-farmers-stand-by-it/100039266",
+            "author": "Jess Davis",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6737efe6b3b380a0e212e0440f851e1c?impolicy=wcms_crop_resize&amp;cropH=768&amp;cropW=576&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=1149",
+            "description": "Concern is growing over the use of a toxic herbicide containing the chemical paraquat that is banned overseas but still used here.",
+            "content": "Concern is growing over the use of a toxic herbicide containing the chemical paraquat that is banned overseas but still used here.",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/6737efe6b3b380a0e212e0440f851e1c?impolicy=wcms_crop_resize&amp;cropH=324&amp;cropW=576&amp;xPos=0&amp;yPos=295&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6737efe6b3b380a0e212e0440f851e1c?impolicy=wcms_crop_resize&amp;cropH=768&amp;cropW=576&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "Agricultural Chemicals",
+                "Regulation",
+                "Health"
+            ]
+        },
+        {
+            "title": "Brisbane's COVID cluster grows but Premier says encouraging signs lockdown could be lifted",
+            "pubDate": "2021-03-30 23:08:51",
+            "link": "https://www.abc.net.au/news/2021-03-31/qld-covid-brisbane-lockdown-hospital-cluster/100034848",
+            "guid": "https://www.abc.net.au/news/2021-03-31/qld-covid-brisbane-lockdown-hospital-cluster/100034848",
+            "author": "Emilie Gramenz",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9e5441bbdcf5ca7af8060338b2efb020?impolicy=wcms_crop_resize&amp;cropH=1680&amp;cropW=1252&amp;xPos=205&amp;yPos=0&amp;width=862&amp;height=1149",
+            "description": "Queensland records two new community cases of COVID-19, both linked to an existing cluster, in an encouraging sign lockdown could be lifted tomorrow if the situation does not worsen.",
+            "content": "Queensland records two new community cases of COVID-19, both linked to an existing cluster, in an encouraging sign lockdown could be lifted tomorrow if the situation does not worsen.",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/9e5441bbdcf5ca7af8060338b2efb020?impolicy=wcms_crop_resize&amp;cropH=1388&amp;cropW=2468&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9e5441bbdcf5ca7af8060338b2efb020?impolicy=wcms_crop_resize&amp;cropH=1680&amp;cropW=1252&amp;xPos=205&amp;yPos=0&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "COVID-19",
+                "Health Policy",
+                "Federal - State Issues",
+                "Travel Health and Safety",
+                "Infectious Diseases (Other)",
+                "Social Distancing",
+                "Respiratory Diseases",
+                "Healthcare Facilities",
+                "Health Administration",
+                "Activism and Lobbying",
+                "Laws",
+                "Quarantine - Medical",
+                "Vaccines and Immunity",
+                "Lockdown"
+            ]
+        },
+        {
+            "title": "Old Perth: A stunning then-and-now look at the city's growth over 150 years",
+            "pubDate": "2021-03-30 23:05:45",
+            "link": "https://www.abc.net.au/news/2021-03-31/old-perth-unearthed-in-new-curtin-hive-photo-database/100036426",
+            "guid": "https://www.abc.net.au/news/2021-03-31/old-perth-unearthed-in-new-curtin-hive-photo-database/100036426",
+            "author": "Gian De Poloni",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b8295baf7502c29e4233170ee06fe44?impolicy=wcms_crop_resize&amp;cropH=729&amp;cropW=547&amp;xPos=299&amp;yPos=0&amp;width=862&amp;height=1149",
+            "description": "A new interactive map allows you to roam the streets of Perth back to the 1860s. We show off some of the city's best transformations.",
+            "content": "A new interactive map allows you to roam the streets of Perth back to the 1860s. We show off some of the city's best transformations.",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/2b8295baf7502c29e4233170ee06fe44?impolicy=wcms_crop_resize&amp;cropH=644&amp;cropW=1144&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b8295baf7502c29e4233170ee06fe44?impolicy=wcms_crop_resize&amp;cropH=729&amp;cropW=547&amp;xPos=299&amp;yPos=0&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "History",
+                "Monument and Heritage Site",
+                "Community and Society",
+                "Internet Technology",
+                "Urban Development and Planning"
+            ]
+        },
+        {
+            "title": "Ash Barty keeps her cool to clinch semi-final spot in Miami",
+            "pubDate": "2021-03-30 22:37:13",
+            "link": "https://www.abc.net.au/news/2021-03-31/ash-barty-keeps-her-cool-to-clinch-semi-final-spot-in-miami/100040086",
+            "guid": "https://www.abc.net.au/news/2021-03-31/ash-barty-keeps-her-cool-to-clinch-semi-final-spot-in-miami/100040086",
+            "author": "",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7d8a3e8d0c57c52de6cbed4777ddbc4a?impolicy=wcms_crop_resize&amp;cropH=2479&amp;cropW=1859&amp;xPos=560&amp;yPos=0&amp;width=862&amp;height=1149",
+            "description": "Ash Barty is one step closer to defending her Miami Open title and keeping her world number one ranking, with a three-set win over Aryna Sabalenka in steamy conditions in Florida. ",
+            "content": "Ash Barty is one step closer to defending her Miami Open title and keeping her world number one ranking, with a three-set win over Aryna Sabalenka in steamy conditions in Florida. ",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/7d8a3e8d0c57c52de6cbed4777ddbc4a?impolicy=wcms_crop_resize&amp;cropH=2091&amp;cropW=3718&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7d8a3e8d0c57c52de6cbed4777ddbc4a?impolicy=wcms_crop_resize&amp;cropH=2479&amp;cropW=1859&amp;xPos=560&amp;yPos=0&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "Tennis"
+            ]
+        },
+        {
+            "title": "Australia to produce its own guided missiles as part of billion-dollar defence manufacturing plan",
+            "pubDate": "2021-03-30 22:28:03",
+            "link": "https://www.abc.net.au/news/2021-03-31/government-weapons-facility-guided-missiles-made-in-australia/100039990",
+            "guid": "https://www.abc.net.au/news/2021-03-31/government-weapons-facility-guided-missiles-made-in-australia/100039990",
+            "author": "",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/73f154a56717962b81bc0fe56bc2ef68?impolicy=wcms_crop_resize&amp;cropH=3456&amp;cropW=2592&amp;xPos=0&amp;yPos=216&amp;width=862&amp;height=1149",
+            "description": "Australia will move to produce its own guided missiles under a $1 billion plan to establish a new weapons facility with a global arms manufacturer.",
+            "content": "Australia will move to produce its own guided missiles under a $1 billion plan to establish a new weapons facility with a global arms manufacturer.",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/73f154a56717962b81bc0fe56bc2ef68?impolicy=wcms_crop_resize&amp;cropH=1458&amp;cropW=2592&amp;xPos=0&amp;yPos=589&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/73f154a56717962b81bc0fe56bc2ef68?impolicy=wcms_crop_resize&amp;cropH=3456&amp;cropW=2592&amp;xPos=0&amp;yPos=216&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "Federal Government",
+                "Government and Politics",
+                "Defence Forces",
+                "Defence Industry",
+                "Defence and Aerospace Industries"
+            ]
+        },
+        {
+            "title": "'We've misunderstood the risk': Australian researchers find new explanations in COVID-19 aerosol spread",
+            "pubDate": "2021-03-30 22:18:17",
+            "link": "https://www.abc.net.au/news/2021-03-31/coughing-deep-breathing-aerosol-spread-covid-study/100039258",
+            "guid": "https://www.abc.net.au/news/2021-03-31/coughing-deep-breathing-aerosol-spread-covid-study/100039258",
+            "author": "Sophie Scott, Mary Lloyd, and Mary Lloyd",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6dd62d404f18a28ccbda7d1d84b927dd?impolicy=wcms_crop_resize&amp;cropH=715&amp;cropW=536&amp;xPos=244&amp;yPos=0&amp;width=862&amp;height=1149",
+            "description": "As Queensland grapples with two separate COVID-19 clusters originating from healthcare workers, researchers question the rationale of why some healthcare workers are better protected than others.",
+            "content": "As Queensland grapples with two separate COVID-19 clusters originating from healthcare workers, researchers question the rationale of why some healthcare workers are better protected than others.",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/6dd62d404f18a28ccbda7d1d84b927dd?impolicy=wcms_crop_resize&amp;cropH=714&amp;cropW=1269&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6dd62d404f18a28ccbda7d1d84b927dd?impolicy=wcms_crop_resize&amp;cropH=715&amp;cropW=536&amp;xPos=244&amp;yPos=0&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "Health Policy",
+                "Health",
+                "COVID-19",
+                "Doctors and Medical Professionals"
+            ]
+        },
+        {
+            "title": "'Hell on wheels': Bumper Easter long weekend forecast for WA hotspots",
+            "pubDate": "2021-03-30 22:08:59",
+            "link": "https://www.abc.net.au/news/2021-03-31/what-to-expect-if-heading-away-in-wa-this-easter-long-weekend/100035940",
+            "guid": "https://www.abc.net.au/news/2021-03-31/what-to-expect-if-heading-away-in-wa-this-easter-long-weekend/100035940",
+            "author": "Tyne Logan",
+            "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66a75394306d4a12c47656b23aa6d201?impolicy=wcms_crop_resize&amp;cropH=538&amp;cropW=403&amp;xPos=189&amp;yPos=0&amp;width=862&amp;height=1149",
+            "description": "WA tourism and accommodation providers are gearing up for what many expect could be their busiest Easter on record. Here's what to expect if you're heading away this long weekend.",
+            "content": "WA tourism and accommodation providers are gearing up for what many expect could be their busiest Easter on record. Here's what to expect if you're heading away this long weekend.",
+            "enclosure": {
+                "link": "https://live-production.wcms.abc-cdn.net.au/66a75394306d4a12c47656b23aa6d201?impolicy=wcms_crop_resize&amp;cropH=393&amp;cropW=698&amp;xPos=0&amp;yPos=145&amp;width=862&amp;height=485",
+                "type": "image/jpeg",
+                "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66a75394306d4a12c47656b23aa6d201?impolicy=wcms_crop_resize&amp;cropH=538&amp;cropW=403&amp;xPos=189&amp;yPos=0&amp;width=862&amp;height=1149"
+            },
+            "categories": [
+                "Lifestyle and Leisure",
+                "Travel and Tourism",
+                "Weather"
+            ]
+        }
+    ]
+}

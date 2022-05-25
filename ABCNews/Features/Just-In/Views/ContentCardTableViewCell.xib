@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="ContentCardTableViewCell" rowHeight="168" id="cah-io-ARP" userLabel="Content Card TableViewCell" customClass="ContentCardTableViewCell" customModule="ABCNews" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="429" height="168"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="cah-io-ARP" id="cJW-eK-hPK">
+                <rect key="frame" x="0.0" y="0.0" width="429" height="168"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" spacing="55" id="QUH-jD-Nri">
+                        <rect key="frame" x="29" y="0.0" width="400" height="168"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="JYs-Wc-lp7">
+                                <rect key="frame" x="0.0" y="0.0" width="172.5" height="168"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="MgJ-4F-5Ue">
+                                        <rect key="frame" x="0.0" y="60" width="172.5" height="48.5"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G62-yS-tka" userLabel="Title Label">
+                                                <rect key="frame" x="0.0" y="0.0" width="172.5" height="21.5"/>
+                                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="19"/>
+                                                <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OP4-rp-zX4" userLabel="Date Label">
+                                                <rect key="frame" x="0.0" y="31.5" width="172.5" height="17"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                <color key="textColor" red="0.50196081400000003" green="0.50196081400000003" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                        <constraints>
+                                            <constraint firstItem="OP4-rp-zX4" firstAttribute="top" secondItem="G62-yS-tka" secondAttribute="bottom" constant="10" id="218-2x-GCw"/>
+                                        </constraints>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="8Qj-ui-Jt6">
+                                <rect key="frame" x="227.5" y="0.0" width="172.5" height="168"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" verticalHuggingPriority="251" horizontalCompressionResistancePriority="60" image="logo-abc" translatesAutoresizingMaskIntoConstraints="NO" id="gur-0Y-mf0" userLabel="Feature Image View">
+                                        <rect key="frame" x="0.0" y="0.0" width="172.5" height="168"/>
+                                        <color key="backgroundColor" red="0.60000002379999995" green="0.60000002379999995" blue="0.60000002379999995" alpha="1" colorSpace="calibratedRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="gur-0Y-mf0" secondAttribute="height" priority="999" id="jJa-ph-UTh"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="trailing" secondItem="gur-0Y-mf0" secondAttribute="trailing" id="6Yz-aH-zgi"/>
+                                    <constraint firstItem="gur-0Y-mf0" firstAttribute="top" secondItem="8Qj-ui-Jt6" secondAttribute="top" id="O0d-lj-5bh"/>
+                                    <constraint firstItem="gur-0Y-mf0" firstAttribute="leading" secondItem="8Qj-ui-Jt6" secondAttribute="leading" id="kGj-hl-VH5"/>
+                                    <constraint firstAttribute="bottom" secondItem="gur-0Y-mf0" secondAttribute="bottom" id="oGv-sZ-JJL"/>
+                                </constraints>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="GbG-qo-jcS"/>
+                        <constraints>
+                            <constraint firstItem="8Qj-ui-Jt6" firstAttribute="width" secondItem="JYs-Wc-lp7" secondAttribute="width" id="jtg-Wq-KV0"/>
+                        </constraints>
+                    </stackView>
+                </subviews>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="dateLabel" destination="OP4-rp-zX4" id="NF8-13-u1d"/>
+                <outlet property="featureImageView" destination="gur-0Y-mf0" id="GER-lz-xg4"/>
+                <outlet property="titleLabel" destination="G62-yS-tka" id="Lk7-bd-3mC"/>
+            </connections>
+            <point key="canvasLocation" x="-639.20000000000005" y="-896.85157421289364"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="logo-abc" width="48" height="48"/>
+    </resources>
+</document>
